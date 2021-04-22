@@ -1,0 +1,29 @@
+### Hi there 👋
+
+<!--
+**iptv678/iptv678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+福建地方,#genre#
+南安卫视,http://natv.cnjrna.com:3000/channel/sovp/1000000000000018/video_1564_none.m3u8
+泉州1套,rtsp://27.148.235.1:554/live/ch18020116435220856291.sdp?playtype=1&boid=001&backupagent=27.148.235.1:554&clienttype=1&time=20200405181817+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751946214&mediaid=ch18020116435220856291&ctype=5&TSTVTimeLife=0&contname=&authid=0&UserLiveType=1&stbid=001004990104900018282C1875FAA421&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=RTTEu6b%2Bvl4DLGrGrkEVdC3vdZP5SKaCwFcgZx772sbq9QTfjr%2BQeKGtiI6sELLL1itR783h4sHdQmRQfL0SOQ%3D%3D&bitrate=2000&distype=0
+福建综合高清,http://27.148.240.138/PLTV/88888888/224/3221226722/1.m3u8
+东南卫视高清,http://27.148.240.138/PLTV/88888888/224/3221226754/1.m3u8
+福建公共高清,http://27.148.240.138/PLTV/88888888/224/3221226928/1.m3u8
+福建新闻高清,http://27.148.240.138/PLTV/88888888/224/3221226736/1.m3u8
+福建电视剧,http://27.148.240.138/PLTV/88888888/224/3221226732/1.m3u8
+福建旅游,http://27.148.240.138/PLTV/88888888/224/3221226854/1.m3u8
+福建经济,http://27.148.240.138/PLTV/88888888/224/3221226920/1.m3u8
+福建体育高清,http://27.148.240.138/PLTV/88888888/224/3221226749/1.m3u8
+福建少儿,http://27.148.240.138/PLTV/88888888/224/3221226738/1.m3u8
+海峡卫视高清,http://27.148.240.138/PLTV/88888888/224/3221226748/1.m3u8
+福建教育电视台,http://27.148.240.138/PLTV/88888888/224/3221226884/1.m3u8
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
